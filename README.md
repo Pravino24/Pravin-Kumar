@@ -1,5 +1,6 @@
-Here's the updated code with the provided name and username:
-
 ```markdown
-[![Pravin Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Pravino24&theme=dark)](https://github.com/Pravino24/github-readme-stats)
+# 👋 Hi there,
+
+I am a **Graphic Designer** at **SSW**. 🎨  
+I am passionate about visual arts and I love creating meaningful user experiences. ✨
 ```
